@@ -1,2 +1,2 @@
-# ContadorRegressivo
+# Contador regressivo
 Contador regressivo
